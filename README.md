@@ -4,4 +4,6 @@ It's 2084 and Zombies are everywhere. Your job is to take them out, and save the
 
 Play the game here:
 
-(http://zombietron2084.herokuapp.com/)[Zombietron 2084]
+[http://zombietron2084.herokuapp.com/](Zombietron 2084)
+
+
