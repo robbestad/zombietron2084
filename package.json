@@ -1,12 +1,12 @@
 {
-  "name": "rpg-game",
-  "version": "0.0.4",
+  "name": "zombietron-2084",
+  "version": "0.1.4",
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sven Anders Robbestad <anders@robbestad.com>",
   "license": "ISC",
   "dependencies": {
     "compression": "^1.2.1",
