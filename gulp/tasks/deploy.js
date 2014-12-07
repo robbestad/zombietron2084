@@ -6,5 +6,5 @@ gulp.task("deploy", shell.task([
     'git commit --allow-empty -am"fix"',
     'npm version patch',
     'git push --set-upstream origin master',
-    'git subtree push --prefix public heroku master'
+    'git push heroku `git subtree split --prefix public master`:master --force'
 ]));
