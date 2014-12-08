@@ -4,8 +4,10 @@ It's 2084 and Zombies are everywhere. Your job is to take them out, and save the
 
 Play the game here:
 
-[http://zombietron2084.herokuapp.com/](Zombietron 2084)
+http://zombietron2084.herokuapp.com/
+
 
 And here it is on Ludum Dare;
 
-[http://ludumdare.com/compo/ludum-dare-31/?action=preview&q=zombietron](Ludum Dare #31)
+http://ludumdare.com/compo/ludum-dare-31/?action=preview&q=zombietron
+
